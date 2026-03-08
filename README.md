@@ -43,10 +43,9 @@ Clone the repository:
 git clone https://github.com/Mr-AshishBhandari/ask-to-youtube-video.git
 cd ask-to-youtube-video
 
-```bash
+
 uv venv # create virtual environment
 
-```bash
 uv sync # install dependencies
 
 Add HUGGINGFACE_ACCESS_TOKEN  in your .env file
